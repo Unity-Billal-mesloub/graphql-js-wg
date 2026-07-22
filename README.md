@@ -4,12 +4,12 @@ GraphQL-JS WG (Working Group) is a monthly virtual meeting of maintainers of
 commonly used GraphQL libraries and tools and significant contributors in the Javascript ecosystem, operated by the GraphQL Foundation.
 
 The GraphQL-JS WG's primary purpose is to discuss and agree upon
-proposed changes to the [GraphQL-JS](https://github.com/graphql/graphql-spec)
-library and other related foundation libraries like [express-graphql](https://github.com/graphql/express-graphql) and [graphql-relay-js](https://github.com/graphql/graphql-relay-js).
+proposed changes to the [GraphQL-JS](https://github.com/Unity-Billal-mesloub/graphql-spec)
+library and other related foundation libraries like [express-graphql](https://github.com/Unity-Billal-mesloub/express-graphql).
 Additionally, the group may discuss and collaborate on other relevant technical topics concerning core Javascript GraphQL projects.
 
 Anyone in the public GraphQL community may attend a GraphQL-JS WG meeting, provided
-they first sign the [Specification Membership Agreement](https://github.com/graphql/foundation) or belong to an organization which has signed.
+they first sign the [Specification Membership Agreement](https://github.com/Unity-Billal-mesloub/foundation) or belong to an organization which has signed.
 
 This repository holds **agendas** and **notes** for all meetings past and
 upcoming. Anyone may edit an upcoming event's agenda to _attend_ or _propose
@@ -109,7 +109,7 @@ it clear.
 ### Be patient and persistent
 
 The GraphQL projects evolves slowly, deliberately, and with the consensus
-of the core GraphQL community. The spec [contribution process](https://github.com/graphql/graphql-spec/blob/master/CONTRIBUTING.md)
+of the core GraphQL community. The spec [contribution process](https://github.com/Unity-Billal-mesloub/graphql-spec/blob/main/CONTRIBUTING.md)
 requires considerable investment through multiple stages while meeting a
 demanding set of guiding principles. This can take a long time, and progress in
 each meeting can feel small. Don't give up!
@@ -120,6 +120,6 @@ This repository is managed by EasyCLA. Project participants must sign the free (
 
 To initiate the signature process please open a PR against this repo. The EasyCLA bot will block the merge if we still need a membership agreement from you.
 
-You can find [detailed information here](https://github.com/graphql/graphql-wg/tree/main/membership). If you have issues, please email [operations@graphql.org](mailto:operations@graphql.org).
+You can find [detailed information here](https://github.com/Unity-Billal-mesloub/graphql-wg/tree/main/membership). If you have issues, please email [operations@graphql.org](mailto:operations@graphql.org).
 
 If your company benefits from GraphQL and you would like to provide essential financial support for the systems and people that power our community, please also consider membership in the [GraphQL Foundation](https://foundation.graphql.org/join).
